@@ -50,7 +50,7 @@ Below are some screenshots of the project from the `to_do_list_screenshots` fold
 |---------------|--------------------------|
 | Backend       | Django (Python)          |
 | Database      | MySQL                    |
-| Frontend      | HTML, CSS, JavaScript    |
+| Frontend      | HTML, CSS, Bootstrap     |
 | Styling       | Bootstrap 5              |
 | Deployment    | GitHub (future: Render)  |
 
