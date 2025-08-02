@@ -41,7 +41,7 @@ Below are some screenshots of the project from the `to_do_list_screenshots` fold
 
 ### ✅ return to Home
 
-![Filter Tasks](to_do_list_screenshots/after_delete.png)
+![Filter Tasks](to_do_list_screenshots/after delete.png)
 
 
 ## 🧰 Tech Stack
