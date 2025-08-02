@@ -28,11 +28,21 @@ Below are some screenshots of the project from the `to_do_list_screenshots` fold
 
 ![Edit Task](to_do_list_screenshots/edit.png)
 
-### ✅ Filter Tasks
+### ✅ Delete Tasks
 
-![Filter Tasks](to_do_list_screenshots/filter.png)
+![Filter Tasks](to_do_list_screenshots/delete.png)
+
+
+### ✅ confirm to delete  Tasks
+
+![Filter Tasks](to_do_list_screenshots/confirm_to_delete.png)
 
 ---
+
+### ✅ return to Home
+
+![Filter Tasks](to_do_list_screenshots/after_delete.png)
+
 
 ## 🧰 Tech Stack
 
